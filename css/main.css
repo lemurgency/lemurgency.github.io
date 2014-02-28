@@ -55,11 +55,14 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
+.page {
+background-color:black;
+}
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
+  width: 900px;
+  margin: 0 auto;
   line-height: 1.5em;
   float:left;
 }
