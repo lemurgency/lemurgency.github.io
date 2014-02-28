@@ -63,6 +63,12 @@ a:visited { color: #a0a; }
   line-height: 1.5em;
 }
 
+.banner {
+background-color:black;
+width:900px;
+height:100px;
+}
+
 .header a {
   font-weight: bold;
   text-decoration: none;
