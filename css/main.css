@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color:black;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -68,7 +68,7 @@ background-color:black;
 }
 
 .banner {
-background-color:black;
+background-color:white;
 width:900px;
 height:100px;
 }
