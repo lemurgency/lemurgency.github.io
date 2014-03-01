@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color:black;
+  background-color:white;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -68,7 +68,7 @@ background-color: black;
   min-height: 500px;
   border:2px solid;
   border-radius:5px;
-  border-color:white;
+  border-color:black;
 }
 
 .banner {
@@ -89,7 +89,7 @@ height:50px;
 }
 
 .title a {
-  color: white;
+  color: black;
 }
 
 .title a:hover {
