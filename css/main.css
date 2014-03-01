@@ -66,12 +66,14 @@ background-color: white;
   line-height: 1.5em;
   background-color: white;
   min-height: 500px;
+}
+
+.content {
   border:2px solid;
   border-radius:5px;
   border-color:black;
   padding: 5px;
 }
-
 .banner {
 background-color:orange;
 width:900px;
