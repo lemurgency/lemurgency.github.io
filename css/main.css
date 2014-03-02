@@ -58,9 +58,10 @@ a:visited { color: #a0a; }
 .page {
 background-image:url('/assets/background-tree.jpg');
 background-position: center;
-background-attachment: center;
-margin: auto;
-width: 1200px;
+
+margin: 0 auto;
+width: auto;
+max-width: 1400px;
 }
 .site {
   font-size: 115%;
