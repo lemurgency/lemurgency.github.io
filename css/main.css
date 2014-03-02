@@ -56,7 +56,11 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .page {
-background-color: white;
+background-image:url('/assets/background-tree.jpg');
+background-position: center;
+background-attachment: center;
+margin: auto;
+width: 1200px;
 }
 .site {
   font-size: 115%;
@@ -65,7 +69,7 @@ background-color: white;
   margin: 0 auto;
   line-height: 1.5em;
   background-color: white;
-  min-height: 500px;
+  min-height: 900px;
 }
 
 .content {
