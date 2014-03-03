@@ -62,7 +62,7 @@ background-position: center top;
 margin: 0 auto;
 width: auto;
 max-width: 1400px;
-height: 400px;
+height: auto;
 border-bottom-style: solid;
 }
 .site {
@@ -95,11 +95,6 @@ border-width: 3px;
   font-size: 120%;
 }
 
-.top-menu {
-
-
-}
-
 .title {
   display: inline-block;
   margin-top: 10px;
@@ -119,7 +114,6 @@ border-width: 3px;
 
 .header a.extra {
   color: white;
-  margin-left: 10px;
 }
 
 .header a.extra:hover {
