@@ -67,28 +67,31 @@ max-width: 1400px;
   font-size: 115%;
   text-align: justify;
   width: 900px;
-  margin: 0 auto;
+  margin: 10px auto;
   line-height: 1.5em;
   background-color: white;
   min-height: 900px;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .content {
-  border:2px solid;
-  border-radius:5px;
-  border-color:black;
+  border: 2px solid;
+  border-radius: 5px;
+  border-color: black;
   padding: 5px;
 }
 .banner {
-background-color:orange;
-width:900px;
-height:50px;
+background-color: #197519;
+width: auto;
+height: 50px;
+border-bottom-style: solid;
+border-width: 3px;
 }
 
 .header a {
   font-weight: bold;
   text-decoration: none;
-  font-size:120%;
+  font-size: 120%;
 }
 
 .title {
@@ -97,7 +100,8 @@ height:50px;
 }
 
 .title a {
-  color: black;
+  color: white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 .title a:hover {
@@ -105,7 +109,7 @@ height:50px;
 }
 
 .header a.extra {
-  color: #aaa;
+  color: white;
   margin-left: 1em;
 }
 
