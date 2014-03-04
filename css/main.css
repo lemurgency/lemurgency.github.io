@@ -62,8 +62,10 @@ background-position: center top;
 margin: 0 auto;
 width: auto;
 max-width: 1400px;
+min-height: 900px;
 height: auto;
 border-bottom-style: solid;
+padding-bottom: 80px;
 }
 .site {
   font-size: 115%;
@@ -72,7 +74,7 @@ border-bottom-style: solid;
   margin: 10px auto;
   line-height: 1.5em;
   background-color: white;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 5px 5px 5px #888888;
 }
 
 .content {
@@ -93,6 +95,14 @@ border-width: 3px;
   font-weight: bold;
   text-decoration: none;
   font-size: 120%;
+}
+
+.nav-bar a {
+color: #0066FF;
+font-size: 150%;
+padding: 15px;
+font-weight: bold;
+
 }
 
 .title {
@@ -130,6 +140,9 @@ border-width: 3px;
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+  height: 80px;
+  width: 100%;
+  background: white;
 }
 
 .footer .contact {
