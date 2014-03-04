@@ -65,7 +65,6 @@ max-width: 1400px;
 min-height: 900px;
 height: auto;
 border-bottom-style: solid;
-padding-bottom: 80px;
 }
 .site {
   font-size: 115%;
@@ -105,7 +104,6 @@ font-weight: bold;
 }
 
 .text {
-  padding: 10px;
   width: 600px;
 }
 
@@ -115,15 +113,16 @@ font-weight: bold;
 }
 .title {
   display: inline-block;
-  margin-top: 10px;
   margin-left: 10px;
-  float:left;
 }
 
 .title a {
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-size: 150%;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
 }
 
 .title a:hover {
