@@ -102,9 +102,12 @@ color: #0066FF;
 font-size: 150%;
 padding: 15px;
 font-weight: bold;
-
 }
 
+.text {
+text-wrap: normal;
+}
+}
 .title {
   display: inline-block;
   margin-top: 10px;
