@@ -94,6 +94,7 @@ border-width: 3px;
   font-weight: bold;
   text-decoration: none;
   font-size: 120%;
+  text-align: left;
 }
 
 .nav-bar a {
@@ -101,6 +102,12 @@ color: #0066FF;
 font-size: 150%;
 padding: 35px;
 font-weight: bold;
+text-decoration: none;
+}
+
+.nav-bar a:hover {
+text-decoration: underline;
+color: black;
 }
 
 .text {
@@ -114,7 +121,6 @@ font-weight: bold;
 }
 }
 .title {
-  display: inline-block;
   margin-left: 10px;
 }
 
@@ -133,10 +139,12 @@ font-weight: bold;
 
 .header a.extra {
   color: white;
+
 }
 
 .header a.extra:hover {
   color: #000;
+  text-decoration: underline;
 }
 
 .meta {
