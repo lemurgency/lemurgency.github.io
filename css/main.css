@@ -99,12 +99,14 @@ border-width: 3px;
 .nav-bar a {
 color: #0066FF;
 font-size: 150%;
-padding: 15px;
+padding: 35px;
 font-weight: bold;
 }
 
 .text {
   width: 600px;
+  float: right;
+  margin-left: 5px;
 }
 
 .about-image {
