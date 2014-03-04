@@ -1,3 +1,4 @@
 name: Spenser Filler
 markdown: redcarpet
 pygments: true
+baseurl: "http://lemurgency.github.io/lemurgency.github.io"

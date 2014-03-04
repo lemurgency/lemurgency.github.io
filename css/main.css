@@ -104,9 +104,9 @@ font-weight: bold;
 }
 
 .text {
-  width: 600px;
+  width: 580px;
   float: right;
-  margin-left: 5px;
+  margin: 10px;
 }
 
 .about-image {
