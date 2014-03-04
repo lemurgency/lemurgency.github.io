@@ -83,7 +83,7 @@ border-bottom-style: solid;
   padding: 5px;
 }
 .banner {
-background-color: #2DC800;
+background-color: #14A347;
 width: auto;
 height: 50px;
 border-bottom-style: solid;
@@ -124,6 +124,7 @@ font-weight: bold;
   font-size: 150%;
   margin-left: 10px;
   margin-top: 10px;
+  text-align: left;
 }
 
 .title a:hover {
