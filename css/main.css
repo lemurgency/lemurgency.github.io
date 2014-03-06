@@ -151,8 +151,9 @@ color: black;
   margin: 10px;
 }
 
-.about-image {
+.about {
   width: 300px;
+  float:left;
 }
 }
 .title {
