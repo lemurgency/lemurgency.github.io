@@ -146,7 +146,8 @@ color: black;
 
 .text {
   width: 550px;
-  float: right;
+  position: absolute;
+  right: 0px;
   margin: 10px;
 }
 
