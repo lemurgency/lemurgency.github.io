@@ -144,15 +144,15 @@ text-decoration: underline;
 color: black;
 }
 
+
 .text {
-  width: 550px;
-  position: absolute;
-  right: 0px;
+  width: 60%;
+ float:right;
   margin: 10px;
 }
 
 .about {
-  width: 300px;
+  width: 35%;
   float:left;
 }
 }
