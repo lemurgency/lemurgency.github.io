@@ -1,22 +1,17 @@
 ---
 layout: post
-title:  "Get the wart remover quick!!"
+title:  "My brother Kyle"
+date:   2014-03-04 23:56:00
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+This is my brother Kyle
 
-Jekyll also offers powerful support for code snippets:
+![Kyle in Italy]({{ site.url }}/assets/kyle-statue.jpg)
+![Kyle and Meg]({{ site.url }}/assets/kyle-meg.jpg)
+![Kyle]({{ site.url }}/assets/kyle-mormon.jpg)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+Kyle and I have grown closer throughout my college career. He also inherited my mother's ability to talk. We can talk about food, nutrition, our futures, and just about anything regarding out life. Kyle is a people person and always makes me feel welcome. He's very outgoing and can make a table full of people laugh without even trying. His impersonations may not be spot-on, but they are without a doubt entertaining to listen to. 
+
+I miss hanging all the fun times we've had watching a movie, playing games, chatting, and having dinner together. I'm sorry I moved across the country, but soon I'll be back and we can once again hang out! 

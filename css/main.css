@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color:white;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 13.34px Arial, Helvetica, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -44,11 +44,46 @@ a:visited { color: #a0a; }
 }
 
 .posts span {
-  color: #aaa;
+  color: Red;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-size: 120%;
+  font-weight: bold;
 }
 
+.posts-left {
+width:200px;
+margin-left: 20px;
+}
+.info-right {
+float:right;
+width:300px;
+margin-top: 50px;
+margin-right: 150px;
+}
+.info-right p {
+  font-size: 125%;
+  font-weight: bold;
+}
+.front-page {
+margin: 25px auto;
+text-align: center;
+width: 700px;
+padding-bottom: 20px;
+min-height: 400px
+}
+.front-page img{
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+.front-post {
+  min-height: 500px;
+  background: white;
+  padding: 10px;
+}
+.front-post li{
+  padding-bottom: 20px;
+}
 /*****************************************************************************/
 /*
 /* Site
@@ -94,7 +129,6 @@ border-width: 3px;
   font-weight: bold;
   text-decoration: none;
   font-size: 120%;
-  text-align: left;
 }
 
 .nav-bar a {
@@ -126,12 +160,8 @@ color: black;
 
 .title a {
   color: white;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-size: 150%;
-  margin-left: 10px;
-  margin-top: 10px;
-  text-align: left;
-}
+  }
 
 .title a:hover {
   color: #000;
